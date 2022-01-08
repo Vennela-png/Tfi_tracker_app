@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_marginLeft="5dp"
+    android:layout_marginRight="5dp"
+    android:background="@color/background_color"
+    tools:context=".ui.Fragments.AboutUsFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+
+    <ImageView
+        android:layout_width="375dp"
+        android:layout_height="250dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="15dp"
+        android:src="@drawable/image" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginTop="300dp">
+
+
+        <TextView
+            android:layout_width="fill_parent"
+            android:layout_height="fill_parent"
+            android:text="The National Service Scheme (NSS) is a Central Sector Scheme of the Government of India, Ministry of Youth Affairs and Sports. It provides an opportunity to the student youth of 11th and 12th Class of schools at +2 Board level and student youth of Technical Institution, Graduate and Post Graduate at colleges and University level of India to take part in various government led community service activities and programmes.\n\nTeach for Ibrahimbagh is an initiative taken up by the NSS where volunteers from the NSS teach the students of Government School in Ibrahimbagh."
+            android:textColor="@color/black"
+             />
+
+
+    </LinearLayout>
+
+
+</FrameLayout>
