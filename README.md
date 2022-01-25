@@ -23,7 +23,8 @@ Navigation components: App uses navigation components to switch between differen
 RecyclerView : To present the list of details of members we used the efficient recyclerview. 
 LiveData & Room Database : We are also using LiveData to update and add new member details.
 
-
+Source code is present in the master branch:
+https://github.com/Vennela-png/Tfi_tracker_app/tree/master
 
 Application Link & Future Scope :
 
